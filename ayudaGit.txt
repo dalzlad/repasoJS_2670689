@@ -14,3 +14,11 @@ git add .
 git commit -m "Primer Commit" 
 git config user.email "dalz.sena@gmail.com"
 git config user.name "dalzlad"
+git remote add origin https://github.com/dalzlad/repasoJS_2670689.git
+git push -u origin main
+
+
+Cómo actualizar el repositorio
+git add .
+git commit -m "Segundo Commit"
+git push -u origin master
