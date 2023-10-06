@@ -1,0 +1,16 @@
+echo "# repasoJS_2670689" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dalzlad/repasoJS_2670689.git
+git push -u origin main
+
+
+
+Vincular el proyecto local a github
+git init
+git add .
+git commit -m "Primer Commit" 
+git config user.email "dalz.sena@gmail.com"
+git config user.name "dalzlad"
